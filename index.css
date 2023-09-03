@@ -1,0 +1,23 @@
+body{
+    padding: 10px; ;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+    background-color: #056f0c;
+    color: rgb(255, 255, 255);
+    font-family:'Trebuchet MS','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+h1{
+    color: goldenrod;
+}
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    width: 250px;
+    font-size: x-large;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    font-weight: 600;
+    margin: 10px;
+}
